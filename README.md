@@ -5,3 +5,4 @@
 2. Day 2 (Linked lists) - https://docs.google.com/presentation/d/16s66gLY3vJ3wFtpFjiHEYqcwBYBCADGvFJ-MV8c7qWc/edit?usp=sharing
 3. Day 3 (stacks & Queues) - https://docs.google.com/presentation/d/1RSy685P91_ASOJMI_c4tU9e4i8zO8ot1UoWANBTqKCU/edit?usp=sharing 
 4. Day 4 (Tress & BST) - https://docs.google.com/presentation/d/1pQdjqgeXx9y1_zTnR53eqvd973-oQ-R6LvN40fGWxjc/edit?usp=sharing
+5. Day 5 (Graphs) - https://docs.google.com/presentation/d/1YY-jxAv7Fjjm-zzp-54ZPorKZOWeXjayQzS048Lyzws/edit?usp=sharing
